@@ -1,0 +1,12 @@
+.todo-container {
+    color: blue;
+    display: flex;
+}
+
+.todo-child1,
+.todo-child2,
+.todo-child3 {
+    padding-right: 50px;
+    margin-left: 50px;
+    color: black;
+}
